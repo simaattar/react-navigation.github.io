@@ -30,6 +30,7 @@
       "version-3.x-screen-tracking",
       "version-3.x-state-persistence",
       "version-3.x-redux-integration",
+      "version-3.x-MST-integration",
       "version-3.x-web-support",
       "version-3.x-function-after-focusing-screen"
     ],

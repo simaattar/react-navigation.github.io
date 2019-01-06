@@ -30,6 +30,7 @@
       "screen-tracking",
       "state-persistence",
       "redux-integration",
+      "MST-integration",
       "web-support"
     ],
     "Build your own Navigator": [
