@@ -5,7 +5,7 @@ sidebar_label: Drawer navigation
 ---
 
 ```js
-class MyHomeScreen extends React.Component {
+export default class MyHomeScreen extends React.Component {
   static navigationOptions = {
     drawerLabel: 'Home',
     drawerIcon: ({ tintColor }) => (
